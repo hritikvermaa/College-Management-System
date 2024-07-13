@@ -1,0 +1,172 @@
+[
+    {
+        "department": "Computer Science",
+        "faculty": [
+            {
+                "name": "Dr. Anil Kumar",
+                "designation": "Professor",
+                "phone": "+91 484 257 5551",
+                "email": "anil.kumar@cusat.ac.in",
+                "profile_image": "https://example.com/images/anil_kumar.jpg"
+            },
+            {
+                "name": "Dr. Priya Menon",
+                "designation": "Associate Professor",
+                "phone": "+91 484 257 5552",
+                "email": "priya.menon@cusat.ac.in",
+                "profile_image": "https://example.com/images/priya_menon.jpg"
+            },
+            {
+                "name": "Dr. Ravi Shankar",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5553",
+                "email": "ravi.shankar@cusat.ac.in",
+                "profile_image": "https://example.com/images/ravi_shankar.jpg"
+            }
+        ]
+    },
+    {
+        "department": "Electrical Engineering",
+        "faculty": [
+            {
+                "name": "Dr. Meera Nair",
+                "designation": "Professor",
+                "phone": "+91 484 257 5561",
+                "email": "meera.nair@cusat.ac.in",
+                "profile_image": "https://example.com/images/meera_nair.jpg"
+            },
+            {
+                "name": "Dr. Suresh Kumar",
+                "designation": "Associate Professor",
+                "phone": "+91 484 257 5562",
+                "email": "suresh.kumar@cusat.ac.in",
+                "profile_image": "https://example.com/images/suresh_kumar.jpg"
+            },
+            {
+                "name": "Dr. Anjana Joseph",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5563",
+                "email": "anjana.joseph@cusat.ac.in",
+                "profile_image": "https://example.com/images/anjana_joseph.jpg"
+            }
+        ]
+    },
+    {
+        "department": "Mechanical Engineering",
+        "faculty": [
+            {
+                "name": "Dr. Vishnu Raj",
+                "designation": "Professor",
+                "phone": "+91 484 257 5571",
+                "email": "vishnu.raj@cusat.ac.in",
+                "profile_image": "https://example.com/images/vishnu_raj.jpg"
+            },
+            {
+                "name": "Dr. Deepa Mathew",
+                "designation": "Associate Professor",
+                "phone": "+91 484 257 5572",
+                "email": "deepa.mathew@cusat.ac.in",
+                "profile_image": "https://example.com/images/deepa_mathew.jpg"
+            },
+            {
+                "name": "Dr. Arun Thomas",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5573",
+                "email": "arun.thomas@cusat.ac.in",
+                "profile_image": "https://example.com/images/arun_thomas.jpg"
+            }
+        ]
+    },
+    {
+        "department": "Civil Engineering",
+        "faculty": [
+            {
+                "name": "Dr. Lakshmi Narayanan",
+                "designation": "Professor",
+                "phone": "+91 484 257 5581",
+                "email": "lakshmi.narayanan@cusat.ac.in",
+                "profile_image": "https://example.com/images/lakshmi_narayanan.jpg"
+            },
+            {
+                "name": "Dr. Jacob Philip",
+                "designation": "Associate Professor",
+                "phone": "+91 484 257 5582",
+                "email": "jacob.philip@cusat.ac.in",
+                "profile_image": "https://example.com/images/jacob_philip.jpg"
+            },
+            {
+                "name": "Dr. Anitha George",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5583",
+                "email": "anitha.george@cusat.ac.in",
+                "profile_image": "https://example.com/images/anitha_george.jpg"
+            }
+        ]
+    },
+    {
+        "department": "Electronics",
+        "faculty": [
+            {
+                "name": "Dr. Shalini Ramesh",
+                "designation": "Professor",
+                "phone": "+91 484 257 5591",
+                "email": "shalini.ramesh@cusat.ac.in",
+                "profile_image": "https://example.com/images/shalini_ramesh.jpg"
+            },
+            {
+                "name": "Dr. Vimal Kumar",
+                "designation": "Associate Professor",
+                "phone": "+91 484 257 5592",
+                "email": "vimal.kumar@cusat.ac.in",
+                "profile_image": "https://example.com/images/vimal_kumar.jpg"
+            },
+            {
+                "name": "Dr. Nisha Nair",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5593",
+                "email": "nisha.nair@cusat.ac.in",
+                "profile_image": "https://example.com/images/nisha_nair.jpg"
+            }
+        ]
+    },
+    {
+        "department": "Information Technology",
+        "faculty": [
+            {
+                "name": "Dr. Rajesh Menon",
+                "designation": "Professor",
+                "phone": "+91 484 257 5601",
+                "email": "rajesh.menon@cusat.ac.in",
+                "profile_image": "https://example.com/images/rajesh_menon.jpg"
+            },
+            {
+                "name": "Dr. Asha Varma",
+                "designation": "Associate Professor",
+                "phone": "+91 484 257 5602",
+                "email": "asha.varma@cusat.ac.in",
+                "profile_image": "https://example.com/images/asha_varma.jpg"
+            },
+            {
+                "name": "Dr. Vinod Kumar",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5603",
+                "email": "vinod.kumar@cusat.ac.in",
+                "profile_image": "https://example.com/images/vinod_kumar.jpg"
+            },
+            {
+                "name": "Dr. Anupama Joshi",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5604",
+                "email": "anupama.joshi@cusat.ac.in",
+                "profile_image": "https://example.com/images/anupama_joshi.jpg"
+            },
+            {
+                "name": "Dr. Kiran Ramesh",
+                "designation": "Assistant Professor",
+                "phone": "+91 484 257 5605",
+                "email": "kiran.ramesh@cusat.ac.in",
+                "profile_image": "https://example.com/images/kiran_ramesh.jpg"
+            }
+        ]
+    }
+]
